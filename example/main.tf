@@ -8,7 +8,7 @@
 
 
 module "my_packer_image" {
-  source = "./modules/packer_module"
+  source = "../modules/packer_module"
 
   builder_project_id = var.project_id
   builder_region     = "europe-west3"
