@@ -1,0 +1,68 @@
+{
+  "builds": [
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698419045,
+      "files": null,
+      "artifact_id": "my-image-1698418884",
+      "packer_run_uuid": "34373fcd-42e7-170e-d4ef-a2d87cb84d1e",
+      "custom_data": null
+    },
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698419390,
+      "files": null,
+      "artifact_id": "my-image-1698419203",
+      "packer_run_uuid": "d86753be-92a9-433e-6149-9106578d6914",
+      "custom_data": null
+    },
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698419909,
+      "files": null,
+      "artifact_id": "my-image-1698419602",
+      "packer_run_uuid": "ce084058-08dd-4586-2a4a-ae42449fd065",
+      "custom_data": null
+    },
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698420406,
+      "files": null,
+      "artifact_id": "my-image-1698420217",
+      "packer_run_uuid": "fa2e7e30-d861-7f69-1086-a62b04231eb8",
+      "custom_data": null
+    },
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698420717,
+      "files": null,
+      "artifact_id": "my-image-1698420560",
+      "packer_run_uuid": "b82a18d7-1b4d-de2d-3e0a-f65c01d458c4",
+      "custom_data": null
+    },
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698421108,
+      "files": null,
+      "artifact_id": "my-image-1698420900",
+      "packer_run_uuid": "50cd7ea5-4946-d254-863a-95ff7e8dd80a",
+      "custom_data": null
+    },
+    {
+      "name": "packed_image",
+      "builder_type": "googlecompute",
+      "build_time": 1698421547,
+      "files": null,
+      "artifact_id": "my-image-1698421358",
+      "packer_run_uuid": "b64aac03-bfd1-c34e-621c-370a9b8e14c6",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "b64aac03-bfd1-c34e-621c-370a9b8e14c6"
+}
